@@ -12,22 +12,22 @@ Moving on, I haven't figured out the images yet so you'll have to do those. The 
 
 The rest of the text (menu) are somewhere in the awb files, I think...
 
-##Info:
+## Info:
 - Platform: PSVita
 - JP Title: 魔法科高校の劣等生 Out of Order
 - EN Title: The Irregular at Magic High School - Out of Order
 - Game ID: PCSG00456
 
-##Build:
+## Build:
 - Data align: 2048
 - Coding: UTF-8
 - Dir. Mask: false
 - ForceCompress: false
 
-##Tools:
+## Tools:
 - cpk.bms 
 - CPKTools
 
-##Credits:
- cpk.bms - QuickBMS http://quickbms.aluigi.org
- CPKTools - Alpha Localization Team CPK Tools
+## Credits:
+- cpk.bms - QuickBMS http://quickbms.aluigi.org
+- CPKTools - Alpha Localization Team CPK Tools

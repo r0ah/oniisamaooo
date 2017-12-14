@@ -28,6 +28,12 @@ The rest of the text (menu) are somewhere in the awb files, I think...
 - cpk.bms 
 - CPKTools
 
+## Screenshots:
+![ss1](https://user-images.githubusercontent.com/29318142/33984112-78db8952-e0f1-11e7-8227-a21b93639fa0.png)
+![ss2](https://user-images.githubusercontent.com/29318142/33984113-791205fe-e0f1-11e7-9dd9-7cb758d643a4.png)
+![ss3](https://user-images.githubusercontent.com/29318142/33984114-794528e4-e0f1-11e7-9a0e-a8f7d551ed14.png)
+![ss4](https://user-images.githubusercontent.com/29318142/33984116-7977c394-e0f1-11e7-8ddc-1d0211c4bad6.png)
+
 ## Credits:
 - cpk.bms - QuickBMS http://quickbms.aluigi.org
 - CPKTools - Alpha Localization Team CPK Tools

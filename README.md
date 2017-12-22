@@ -1,3 +1,5 @@
+![pic0](https://user-images.githubusercontent.com/29318142/34314699-8757bc8c-e7b1-11e7-86a5-b10515d43311.png)
+
 I have this setting on my computer for a while now and before I forget again. Here are the event dialog scripts for OOO. Anyone who wants to translate OOO can use and clone the files.
 
 You can modify everything in the lua script. The lua programming is pretty straightforward and some of the codes are even documented and categorized so if you're having trouble with the text space, don't worry about it. You can have as many space as you needed if modify the lua script.

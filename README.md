@@ -1,4 +1,4 @@
-![pic0](https://user-images.githubusercontent.com/29318142/34314699-8757bc8c-e7b1-11e7-86a5-b10515d43311.png)
+![pic0](https://user-images.githubusercontent.com/29318142/34314744-ea5fda62-e7b1-11e7-9e4b-4f3935440ba4.png)
 
 I have this setting on my computer for a while now and before I forget again. Here are the event dialog scripts for OOO. Anyone who wants to translate OOO can use and clone the files.
 
